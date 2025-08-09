@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { MapPin, Store, BookOpen, Users, Star, ArrowRight, Menu, X, Heart, Camera, Coffee } from 'lucide-react';
+import { MapPin, Store, BookOpen, Star, ArrowRight, Menu, X, Heart, Camera, Coffee } from 'lucide-react';
 
 const CeritaBorobudur: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
