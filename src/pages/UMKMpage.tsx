@@ -1,5 +1,5 @@
 import React, { useState, useMemo, useEffect } from 'react';
-import { Search, Filter, MapPin, Star, Clock, Phone, Instagram, Facebook, ChevronDown, Grid, List, Heart, Share2, MessageCircle, Sparkles, X } from 'lucide-react';
+import { Search, Filter, MapPin, Star, Clock, Phone, ChevronDown, Grid, List, Heart, Share2, Sparkles, X } from 'lucide-react';
 
 interface UMKM {
   id: number;
