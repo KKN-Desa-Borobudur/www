@@ -1,11 +1,11 @@
 import './App.css'
-import CeritaBorobudur from './pages/CeritaBorobudur'
+import Homepage from './pages/Homepage'
 
 function App() {
 
   return (
     <>
-    <CeritaBorobudur />
+    <Homepage />
     </>
   )
 }
